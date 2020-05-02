@@ -10,6 +10,9 @@ You will find the following files:
 This is the world file in which you will run your Husky made by me.
 
 2.) Husky_3D_world.launch
-This is the launch file required for running the 3D_world.world in Gazebo
+This is the launch file required for running the 3D_world.world in Gazebo.
+
+3.) Husky_3D.launch
+This is the file we will be executing and spawning the 3D_world as well as the robot in it.
 
 You will find all other files installed along with the Husky.
